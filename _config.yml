@@ -1,0 +1,14 @@
+layout_spectrum: 0.7648437784519047
+typography_spectrum: 0.14263064530678093
+color:
+  brandStrength: 0.7193706019315869
+  lightness: 0.10638194996863604
+  saturation: 0.0313203982077539
+  rhythmicContrast: 0.5672345403581858
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: forced musings
